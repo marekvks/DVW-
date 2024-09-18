@@ -13,7 +13,7 @@
     "github-markdown-css": "^5.5.1",
     "js-cookie": "^3.0.5",
     "marked": "^12.0.2",
-    "next": "14.1.3",
+    "next": "14.2.10",
     "react": "^18",
     "react-dom": "^18",
     "react-toastify": "^10.0.5"
